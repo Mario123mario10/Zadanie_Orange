@@ -1,1 +1,1 @@
-Uruchamiania poprzez: python zadanie.py
+Uruchamianianie poprzez: python zadanie.py
